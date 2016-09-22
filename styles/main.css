@@ -1,0 +1,9 @@
+li {
+    background-color: #9271d9;
+    list-style-type: hebrew;
+}
+
+#target-for-text {
+    color: #124c12;
+    background-color: #faa000;
+}
